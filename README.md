@@ -69,6 +69,16 @@
 
 - Promising the eliminate the debt in 8 years. National debt is already projected to be 50% higher since he took office. [Source](https://www.washingtonpost.com/business/2019/03/12/trump-vowed-eliminate-debt-years-hes-track-leave-it-least-percent-higher)
 
+- Illegally inherited nearly half a billion dollars and a real estate empire. [Illegal Inheritance](https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html)
+
+- Personally failed in business with failed casinos and a failed airline. [Source 1](https://www.cheatsheet.com/money-career/donald-trump-business-failures-complete-guide.html/), [Source 2](https://www.businessinsider.com/donald-trump-businesses-failures-successes-2016-10#24-projects-the-times-concluded-didnt-work-out-1)
+
+- Bankrupted six times, screwing investors and business partners (including private contractors and unions). Trump was quoted by Newsweek in 2011 saying, ["I do play with the bankruptcy laws—they're very good for me."](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump#Business_bankruptcies)
+
+- Used his office to enrich himself, solicited bribes, and inflicted human rights abuses on migrant families. "President Trump has tried to use the presidency to enrich himself by promoting his businesses as extensions of his administration. That includes conducting government business at them, praising them in his official capacity, and even going so far as to offer exclusive perks to members of his clubs including access to government leaders, influence on government business, and in some cases, appointments to government positions."
+  - Vacations every weekend at his own resort, funneling government money into his business and costing taxpayers millions of dollars.
+
+
 ## Violations of the Public Trust
 
 - Trump promised to donate $10,000 to the Twin Towers Fund. No evidence has every been found (nor has Trump tried to provide any) that the money was actually donated. [Source](https://www.nbcnews.com/news/us-news/nyc-official-no-evidence-trump-gave-10k-9-11-fund-n666631)
@@ -79,12 +89,6 @@
   - [Data collection/interpretation methodology](https://www.reddit.com/r/dataisbeautiful/comments/7jt7ke/in_his_first_10_months_trump_told_nearly_six/dr9hsvh)
 
 - Being a serial racist [Racism](https://old.reddit.com/r/FragileWhiteRedditor/comments/ecajmz/does_this_count/fbazhe8/?context=1)
-
-- Illegally inherited nearly half a billion dollars and a real estate empire. [Illegal Inheritance](https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html)
-
-- Personally failed in business with failed casinos and a failed airline. [Source 1](https://www.cheatsheet.com/money-career/donald-trump-business-failures-complete-guide.html/), [Source 2](https://www.businessinsider.com/donald-trump-businesses-failures-successes-2016-10#24-projects-the-times-concluded-didnt-work-out-1)
-
-- Bankrupted six times, screwing investors and business partners (including private contractors and unions). Trump was quoted by Newsweek in 2011 saying, ["I do play with the bankruptcy laws—they're very good for me."](https://en.wikipedia.org/wiki/Business_career_of_Donald_Trump#Business_bankruptcies)
 
 - Failed marriages (plural) with infidelity and betrayal. [Source](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations#Accusations_filed_in_court_against_Trump)
 
@@ -111,10 +115,6 @@
 
 - Cheated in the 2016 election and obstructed justice in the investigation of that election. [Link for info](https://www.pbs.org/newshour/show/how-mueller-himself-factors-into-the-trump-obstruction-investigation)
 
-- Used his office to enrich himself, solicited bribes, and inflicted human rights abuses on migrant families. "President Trump has tried to use the presidency to enrich himself by promoting his businesses as extensions of his administration. That includes conducting government business at them, praising them in his official capacity, and even going so far as to offer exclusive perks to members of his clubs including access to government leaders, influence on government business, and in some cases, appointments to government positions."
-  - Vacations every weekend at his own resort, funneling government money into his business and costing taxpayers millions of dollars.
-
-
 - Been accused of sexual assault. [Source](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations), He also walked in on underage girls [regularly](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations#Allegations_of_pageant_dressing_room_visits) at his pagents
   - [Trump has been accused of Raping a minor](https://www.politico.com/story/2016/11/donald-trump-rape-lawsuit-dropped-230770), who's allegations had to be taken back due to threats. Source:
   - > "The lawyer who organized the event, Lisa Bloom, said Trump's accuser had received threats and was too frightened to show up. In the most recent suit, Trump's accuser asserted that while she was exploring a modeling career in 1994, she attended a series of parties at the Manhattan home of prominent investor Jeffrey Epstein. She alleges that during those parties the real estate mogul tied her to a bed and raped her. She also claimed Epstein raped her during that series of gatherings."
@@ -122,6 +122,8 @@
 - Had six close political associates indicted or jailed. [Source](https://www.businessinsider.com/who-has-been-charged-in-russia-investigation-mueller-trump-2017-12)
 
 - Praises the worlds worst dictators and made enemies of US democratic allies. Committed tax fraud, admitted he broke the law by misusing his charity to fund his campaign. [Dictatorship Praise](https://www.cnn.com/2019/07/02/politics/donald-trump-dictators-kim-jong-un-vladimir-putin/index.html), [His 'charity foundation' illegalities](https://en.wikipedia.org/wiki/Donald_J._Trump_Foundation#Legal_and_ethical_controversies)
+
+- Trump is a self-proclaimed anti-vax supporter [(Source)](https://twitter.com/realDonaldTrump/status/449525268529815552?s=19)
 
 - Began his presidency by settling a fraud lawsuit over his scam University. [source](https://en.wikipedia.org/wiki/Trump_University#Settlement)
 
@@ -173,3 +175,18 @@
    - Paul Pogue, who was sentenced to three years of probation and was ordered to pay $723,0000 in fines and restitution for filing false income tax statements. [Source](https://starlocalmedia.com/mckinneycouriergazette/news/pogue-gets-probation-in-tax-fraud-trial/article_cb54abd1-4ef6-5e92-bd28-af1709118bad.html)
    - David Safavian, who was sentenced to a year in prison in 2009 for covering up his ties to the lobbyist Jack Abramoff. [Source](https://www.justice.gov/opa/pr/former-gsa-chief-staff-david-safavian-sentenced-obstruction-justice-and-making-false)
    - Angela Stanton, who served six months of home confinement in 2007 for her role in a stolen-vehicle ring. [Source](https://waok.radio.com/blogs/on-point-with-juandolyn-stokes/angela-stanton-king-talks-adversity-and-support-for-trump)
+ - Assassinating a foreign national without provocation [(Source)](https://www.cnbc.com/2020/01/03/who-was-iranian-general-qasem-soleimani-and-why-his-killing-matters.html) and lying to the press about an eminent threat [(Source)](https://www.cnbc.com/2020/02/14/trump-administration-issues-report-on-soleimani-killing.html). 
+- Trump defunded the agency enacted in order to prevent and minimize epidemics. [(Source)](https://www.vanityfair.com/news/2020/02/donald-trump-coronavirus-funding)
+  - The amount of budget he saved couldn't even cover his golf expenses
+  - > While $37 million is a relative drop in the bucket compared to the overall ask, it’s also the amount that keeps 750,000 families from freezing to death, according to Mark Wolfe, the executive director of the National Energy Assistance Directors Association. It’s also approximately one third the amount of money taxpayers have spent funding Trump’s golf trips since 2017. Perhaps he could cough up some of that money to address the issue!
+
+### My own conspiracies
+
+- Trump uses drastic tactics that often come at the expense of the lives of non-Americans to avoid facing challenges at home.
+  - Trump abandons the Kurds to distract the press from his impeachment
+    - On the evening of September 24, 2019, Pelosi announced that six committees of the House of Representatives would begin a formal impeachment inquiry into President Trump.
+    - In an October 8, 2019 letter to House Democratic leaders, the White House stated it would not cooperate with "[their] partisan and unconstitutional inquiry under these circumstances." [(Source)](https://www.nytimes.com/2019/10/08/us/politics/sondland-trump-ukraine-impeach.html) The eight-page letter was widely interpreted by legal analysts as containing political rather than legal arguments. [(Source 1)](https://www.nytimes.com/2019/10/09/us/politics/trump-case-against-impeachment.html) [(Source 2)](https://www.rollcall.com/news/former-ethics-czar-warns-impeachment-letter-mistakes-trump-king)
+    - On October 13, 2019 Trump orders a withdrawal of US troops from Syria [(Source)](https://www.nytimes.com/2019/10/13/us/politics/mark-esper-syria-kurds-turkey.html)
+ abandoning the Kurds and freeing a hundred+ ISIS fighters [(Source)](https://abcnews.go.com/US/100-isis-prisoners-loose-security-officials-act-now/story?id=66499973)
+    - Did we abandon the kurds causing hundreds of deaths [(Source)](https://www.reuters.com/article/us-syria-security-turkey-usa/thousands-flee-hundreds-reported-dead-in-turkish-attack-on-us-allied-kurds-in-syria-idUSKBN1WP0VH) and voiding our international trust [(Source)](https://foreignpolicy.com/2019/10/18/trump-can-forget-burden-sharing-now/) in order for Trump to keep news outlets distracted from reporting on his impeachment inquiry?
+  - Did we assassinate a foreign national merely to sidestep the leaks of his emails showing that he was solely responsible for witholding the aid to Ukraine, which is a violation of the Impoundments Act?
