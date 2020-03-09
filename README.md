@@ -63,10 +63,21 @@
 - Pulling out of the Trans-Pacific Partnership.  
   - > This is a HUGE failure on behalf of Trump and his administration. When we pulled out of the TPP, China began leading their own talks of a new trade partnership in the pacific... without the US. It was an absolutely stupid move on Trump's part and I don't know how he didn't see that coming, considering he's such a great* businessman and all.  [Source](https://www.washingtontimes.com/news/2017/jan/23/trump-pull-out-trans-pacific-partnership)
 
-- Launching a trade war with China (and our EU friends too).
+- Launching a trade war with China (and our EU friends too) and failing to get a single one of his stated goals acheived.
   - > "More in general the results of this paper point to the fact that the United States tariffs on China are economically hurting both countries. United States losses are largely related to the higher prices for consumers, while China’s losses are related to significant export losses."
   - Trump's trade war has directly hurt US consumers based on this report from the United Nations. [Source](https://unctad.org/en/PublicationsLibrary/ser-rp-2019d9_en.pdf)
+  - The reality is that the Trump administration achieved almost none of its goals; it has basically declared victory while going into headlong retreat. [(Source)](https://www.nytimes.com/2019/12/16/opinion/trump-china-trade.html)
 
+- Lying—and endorsing people that lie—about Trump achieving the lowest 'ever' unemployment rate.  [(Source)](https://www.msnbc.com/rachel-maddow-show/sotu-trump-plays-make-believe-wildly-exaggerates-economic-record-n1131356)
+  - Looking at unemployment as a sole metric is also a bullshit indicator of economic prosperity [(Source)](https://www.bankrate.com/personal-finance/smart-money/low-unemployment-many-discouraged-about-jobs/)
+  - The 4.8% to 4.6% drop was due to a large number of people - 490,000 - leaving the labour force during April, which is alarming [(Source)](https://www.bbc.com/news/business-48145563) because it means people have given up working (likely due to automation).
+  - Obama actually owns the biggest contribution to unemployment in the last two decades because his administration brought unemployment from ~10% to ~4% (-6% change) while Trump brought unemployment from ~4% to ~3.6% (-0.4% change). Also, by statistic comparison, Trump has slowed the rate of unemployment from Obama's pace [(Source)](https://markets.businessinsider.com/news/stocks/9-charts-comparing-trump-economy-to-obama-bush-administrations-2019-9-1028833119#wage-growth-for-non-supervisory-and-production-workers-in-the-private-sector-slowed-down-after-the-recession-but-mostly-picked-up-during-president-trump-s-first-term-as-the-labor-market-has-tightened-4)
+  - Under-employment still hasn't decreased since the great recession (~8%) [(Source)](https://www.americashealthrankings.org/explore/annual/measure/Underemployed/state/ALL)
+    - > Perhaps the BLS should take the advice from this paper and consider a new measure of unemployment: a U-7 figure that looks at underemployment as a portion of employment. Otherwise, the Fed's governors may assume the economy and labor markets are in strong position and make important decisions based on faulty assumptions.[(Source)](https://www.forbes.com/sites/eriksherman/2018/09/25/underemployment-takes-an-outsized-toll-on-the-economy-according-to-a-new-study/#46c20126234e)
+  - Wages have actually declined or stagnated [(Source)](https://www.pewresearch.org/fact-tank/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/)
+  - Person's on disability are at an all-time high [(Source)](https://www.bls.gov/news.release/pdf/disabl.pdf)
+  - Most US labor is concentrated into low-paying jobs [(Source)](https://www.pewresearch.org/fact-tank/2014/04/14/u-s-workforce-more-concentrated-in-large-and-largely-low-paid-occupations/)
+  
 - Promising the eliminate the debt in 8 years. National debt is already projected to be 50% higher since he took office. [Source](https://www.washingtonpost.com/business/2019/03/12/trump-vowed-eliminate-debt-years-hes-track-leave-it-least-percent-higher)
 
 - Illegally inherited nearly half a billion dollars and a real estate empire. [Illegal Inheritance](https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html)
@@ -180,7 +191,7 @@
   - The amount of budget he saved couldn't even cover his golf expenses
   - > While $37 million is a relative drop in the bucket compared to the overall ask, it’s also the amount that keeps 750,000 families from freezing to death, according to Mark Wolfe, the executive director of the National Energy Assistance Directors Association. It’s also approximately one third the amount of money taxpayers have spent funding Trump’s golf trips since 2017. Perhaps he could cough up some of that money to address the issue!
 
-### My own conspiracies
+### My Own Theories
 
 - Trump uses drastic tactics that often come at the expense of the lives of non-Americans to avoid facing challenges at home.
   - Trump abandons the Kurds to distract the press from his impeachment
@@ -190,3 +201,11 @@
  abandoning the Kurds and freeing a hundred+ ISIS fighters [(Source)](https://abcnews.go.com/US/100-isis-prisoners-loose-security-officials-act-now/story?id=66499973)
     - Did we abandon the kurds causing hundreds of deaths [(Source)](https://www.reuters.com/article/us-syria-security-turkey-usa/thousands-flee-hundreds-reported-dead-in-turkish-attack-on-us-allied-kurds-in-syria-idUSKBN1WP0VH) and voiding our international trust [(Source)](https://foreignpolicy.com/2019/10/18/trump-can-forget-burden-sharing-now/) in order for Trump to keep news outlets distracted from reporting on his impeachment inquiry?
   - Did we assassinate a foreign national merely to sidestep the leaks of his emails showing that he was solely responsible for witholding the aid to Ukraine, which is a violation of the Impoundments Act?
+    - Friday, December 20, 2019 - Speaker Nancy Pelosi indicated Thursday that she would delay sending the articles of impeachment to the Senate, seeking more clarity on the rules for President Trump’s trial and potentially pushing the proceedings well into the new year. [(Source])(https://www.wsj.com/articles/after-house-impeaches-trump-timing-of-next-steps-is-unclear-11576755097)
+    - On December 21, conservative Bill Kristol and a group calling itself "Republicans for the Rule of Law" released an ad encouraging viewers to call their senators to demand top Trump officials be forced to testify in his impeachment trial [(Source)](https://www.huffpost.com/entry/republicans-for-the-rule-of-law-impeachment-witnesses_n_5dfec4afe4b0843d35fd0c00?).
+    - Wednesday, December 25th, 2019 - President Trump lashed out on Nancy Pelosi in a pair of tweets Christmas night, decrying what he called a "Scam Impeachment." [(Source)](https://thehill.com/homenews/administration/475928-trump-lashes-out-at-pelosi-in-christmas-tweets-decries-scam-impeachment)
+      - > Why should Crazy Nancy Pelosi, just because she has a slight majority in the House, be allowed to Impeach the President of the United States? Got ZERO Republican votes, there was no crime, the call with Ukraine was perfect, with “no pressure.” She said it must be “bipartisan & overwhelming,” but this Scam Impeachment was neither. Also, very unfair with no Due Process, proper representation, or witnesses. Now Pelosi is demanding everything the Republicans weren’t allowed to have in the House. Dems want to run majority Republican Senate. Hypocrites!
+      - It's worth clarifying that there is no requirement of an Impeachment trial that it's bipartisan. It's also not a criminal case, it's an impeachment trial and is an entirely different process. [(Source)](https://www.washingtonpost.com/politics/2020/01/22/4-big-differences-between-senate-impeach ment-trial-criminal-trial/)
+
+    - Friday, January 3, 2020 - At the direction of US President Donald Trump, the US military killed Soleimani, head of Iran's Quds Force, the foreign arm of the IRGC in an air raid near the cargo area of Baghdad International Airport. [(Source)](https://www.aljazeera.com/news/2020/01/trump-assassination-soleimani-200103172526102.html)
+    - Shortly thereafter, all discussions on having witnesses dissapeared from news outlets as they were covering another Trump media blitz. Did we assassinate a foreign national—in an of itself an act of war and a strident display of Trump's abuse of power—solely to protect Trump from having witnesses at his trial?
