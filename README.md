@@ -220,6 +220,10 @@
    - > Low Ratings Fake News MSDNC (Comcast) & @CNN are doing everything possible to make the Caronavirus look as bad as possible, including panicking markets, if possible. Likewise their incompetent Do Nothing Democrat comrades are all talk, no action. USA in great shape! 
 @CDCgov [(Source)](https://twitter.com/realDonaldTrump/status/1232652371832004608?s=20)
 
+ - Attacking gold star families & minimizing the plight of POWs
+   - >Ignoring the pleas of his advisers and entreaties from party leaders in Washington, Mr. Trump only dug in further on Tuesday. He told a Virginia television station that he had no regrets about his clash with Khizr and Ghazala Khan, the parents of an Army captain killed in Iraq.  [(Source)](https://www.nytimes.com/2016/08/03/us/politics/donald-trump-gop.html)
+   - > Referring to Sen. John McCain, Trump said, “He’s not a war hero. He’s a war hero because he was captured. ... I like people who weren't captured.” [(Source)](https://www.usatoday.com/story/opinion/2019/06/04/dday-anniversary-trump-disrespects-mccain-prisoners-of-war-column/1327852001/)
+
 
 ### My Own Theories
 
