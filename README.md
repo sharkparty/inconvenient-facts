@@ -99,7 +99,7 @@
   - Share buy-backs reduce float. Reducing float artificially increases EPS (earnings per share). Many CEO’s are compensated heavily based on EPS and other metrics. [(Source)](https://www.investopedia.com/managing-wealth/guide-ceo-compensation/) [(Source 2)](https://www.investopedia.com/terms/e/eps.asp)
   - The appearance of record breaking profits on Wall Street has been a facade.
   - A few days ago, Goldman Sachs said that liquidity is drying up. [(Source)](https://www.marketwatch.com/story/fierce-bond-market-swings-dry-up-liquidity-in-wide-swathe-of-15-trillion-us-bond-market-2020-03-12)
-  - All it takes is a real crisis that you can’t “tweet out of existence” and the house of cards will come tumbling. Source: commone sense
+  - All it takes is a real crisis that you can’t “tweet out of existence” and the house of cards will come tumbling. Source: common sense
   - Don’t worry though, the CEO’s got their shares and other incentives and will be just fine. 
   - It only takes a few realities to expose a charade of lies [(Source)](https://fortune.com/2020/03/11/obama-trump-stock-market-us-economy/)
 
