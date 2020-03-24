@@ -225,7 +225,6 @@
    - > Referring to Sen. John McCain, Trump said, “He’s not a war hero. He’s a war hero because he was captured. ... I like people who weren't captured.” [(Source)](https://www.usatoday.com/story/opinion/2019/06/04/dday-anniversary-trump-disrespects-mccain-prisoners-of-war-column/1327852001/)
 
 ### Covid-19 (Coronavirus) Response
-- Shutting down the agencies enacted by Obama to combat the spread of pandemics
 - Delaying action, lying about having it covered, calling it a flu
   - By the last week in February, most new outlets were already calling coronavirus a pandemic [(Source)](https://www.vox.com/2020/2/23/21149327/coronavirus-pandemic-meaning-italy)
   - From the outset, Trump's plan was isolationism, which makes intuitive sense, but was maligned by experts as a strategy that has never worked, even prior to globalization [(Source)](https://time.com/5797636/trump-botched-coronavirus-response/)
