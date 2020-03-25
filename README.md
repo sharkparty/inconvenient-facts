@@ -375,7 +375,7 @@
   - Trump tells a nation terrified of coronavirus that none of this is his fault. Trump lied, insulted reporters, and explicitly refused to take responsibility for his own actions. [(Source)](https://www.vox.com/2020/3/13/21179119/trump-not-my-fault-coronavirus-press-conference-public-health)
 - Suppressing unemployment figures
   - Trump administration asking states to delay release of unemployment numbers [(Source 1)](https://edition.cnn.com/2020/03/20/politics/labor-department-states-unemployment-numbers-coronavirus/index.html) & [(Source 2)](https://www.huffpost.com/entry/labor-department-trump-fudges-unemployment-claims_n_5e745dc5c5b6eab7794577ee)
-
+- Arizona man dies after attempting to take Trump coronavirus 'cure' [(Source)](https://www.theguardian.com/world/2020/mar/24/coronavirus-cure-kills-man-after-trump-touts-chloroquine-phosphate)
 
 
 ### My Own Theories
