@@ -367,16 +367,18 @@
     - In a clash of gut instinct versus science, President Donald Trump and the government’s top infectious disease expert, Dr. Anthony Fauci, are politely but publicly sparing over whether a malaria drug would work to treat people with coronavirus disease. [(Source)](https://apnews.com/432a37435f28015e8b45eeff710cd254)
     - Fauci demonstrating visible exasperation and Trump tweeted it anyway [(Source)](https://www.businessinsider.com/coronavirus-trump-retweeted-clip-of-fauci-face-palming-behind-him-2020-3)
     - Trump persisted in backing a 'cure' that actually harmed people, and eventually killed people: Nigeria records chloroquine poisoning after Trump endorses it for coronavirus treatment [(Source)](https://www.cnn.com/2020/03/23/africa/chloroquine-trump-nigeria-intl/index.html)
+    - Arizona man dies after attempting to take Trump coronavirus 'cure' [(Source)](https://www.theguardian.com/world/2020/mar/24/coronavirus-cure-kills-man-after-trump-touts-chloroquine-phosphate)
 - Failing to mobilize the army
   - The time is growing short and fewer options are available. Using federal troops to help create hospital beds is one we should try.
   - Open letter from Andrew M. Cuomo, governor of NYC, begging Trump to mobilize the army in order to combat the spread of COVID-19 [(Source)](https://www.nytimes.com/2020/03/15/opinion/andrew-cuomo-coronavirus-trump.html)
 - Abdicating any responsibility for his response & his administration's dissolution of the agencies Obama enacted to respond to things like this
   - Trump spent the past 2 years slashing the government agencies responsible for handling the coronavirus outbreak [(Source)](https://www.businessinsider.com/trump-cuts-programs-responsible-for-fighting-coronavirus-2020-2)
   - Trump tells a nation terrified of coronavirus that none of this is his fault. Trump lied, insulted reporters, and explicitly refused to take responsibility for his own actions. [(Source)](https://www.vox.com/2020/3/13/21179119/trump-not-my-fault-coronavirus-press-conference-public-health)
+  - Trump knew about, participated in, and believed that cutting those agencies was a good idea and there's a video of him defending these measures [(Source)](https://www.independent.co.uk/news/world/americas/us-politics/coronavirus-video-trump-pandemic-team-cut-2018-a9405191.html)
 - Suppressing unemployment figures
   - Trump administration asking states to delay release of unemployment numbers [(Source 1)](https://edition.cnn.com/2020/03/20/politics/labor-department-states-unemployment-numbers-coronavirus/index.html) & [(Source 2)](https://www.huffpost.com/entry/labor-department-trump-fudges-unemployment-claims_n_5e745dc5c5b6eab7794577ee)
-- Arizona man dies after attempting to take Trump coronavirus 'cure' [(Source)](https://www.theguardian.com/world/2020/mar/24/coronavirus-cure-kills-man-after-trump-touts-chloroquine-phosphate)
-
+- Trump says that he will veto any bailout oversight [(Source)](https://www.latimes.com/business/story/2020-03-30/trump-coronavirus-bailout-oversight)
+  - The oversight language in the virus bailout bill was the same as in the legislation that established his office, which oversaw spending from the Troubled Asset Relief Program, or TARP, the 2008 bank bailout.
 
 ### My Own Theories
 
